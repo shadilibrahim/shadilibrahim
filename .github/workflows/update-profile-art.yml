@@ -8,14 +8,14 @@ name: Update profile art
     branches: [main]
 
 permissions:
-  contents: write          # Needed to commit the refreshed SVG
+  contents: write          # Needed to commit refreshed files
 
 jobs:
   heatmap:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Check out the repo (full history not needed)
+      # 1. Check out the repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -37,11 +37,13 @@ jobs:
       - name: Render heatmap SVG
         run: python scripts/render_heatmap_svg.py
 
-      # 6. Commit & push if the SVG changed
-      - name: Commit updated heatmap
+      # 6. Generate today's daily log entry
+      - name: Update daily log
+        run: python scripts/update_daily_log.py
+
+      # 7. Commit & push both files in one auto-commit
+      - name: Commit updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "contrib-heatmap.svg"
-          # contributions.json is intentionally NOT committed; it is
-          # a transient build artifact used only within the workflow run.
+          commit_message: "chore: daily update — heatmap + dev log [skip ci]"
+          file_pattern: "contrib-heatmap.svg daily-log.md .daily_streak"
