@@ -12,7 +12,7 @@
 
 <div align="center">
   <h3><code>shadilibrahim@github ~ $ ./contributions.sh</code></h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=shadilibrahim&theme=dracula&hide_border=false" width="860" alt="Live Contribution Heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadilibrahim&theme=dracula&hide_border=false" width="860" alt="Live Contribution Heatmap" />
 </div>
 
 ###
