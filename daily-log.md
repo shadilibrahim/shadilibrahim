@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Saturday, August 08 2026
+# 📅 Daily Dev Log — Sunday, August 09 2026
 
-> *Auto-generated at 07:12 UTC · Day **4** of consistent coding 🌱*
+> *Auto-generated at 07:14 UTC · Day **5** of consistent coding 🌱*
 
 ---
 
-## 🧪 Testing — Tip of the Day
+## 🧩 Algorithm — Tip of the Day
 
-> Avoid global state — it makes code hard to test and reason about.
+> Comment the *why*, not the *what*. The code already shows the what.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "Experience is the name everyone gives to their mistakes."
+> "The most important property of a program is whether it accomplishes the intention of its user."
 >
-> — **Oscar Wilde**
+> — **C.A.R. Hoare**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-08-08
-- **Streak**: 4 days 🌱
-- **Theme**: 🧪 Testing
+- **Date**: 2026-08-09
+- **Streak**: 5 days 🌱
+- **Theme**: 🧩 Algorithm
 
 _Keep building. Every line of code counts._ 🚀
