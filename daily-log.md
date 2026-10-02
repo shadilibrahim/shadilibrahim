@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Thursday, October 01 2026
+# 📅 Daily Dev Log — Friday, October 02 2026
 
-> *Auto-generated at 13:08 UTC · Day **58** of consistent coding 🔥*
+> *Auto-generated at 12:30 UTC · Day **59** of consistent coding 🔥*
 
 ---
 
-## 🧩 Algorithm — Tip of the Day
+## 🏗️ Architecture — Tip of the Day
 
-> Keep dependencies minimal — every library is technical debt.
+> Performance optimise *after* you measure, not before.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "Knowledge is power."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — **Francis Bacon**
+> — **Martin Fowler**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-10-01
-- **Streak**: 58 days 🔥
-- **Theme**: 🧩 Algorithm
+- **Date**: 2026-10-02
+- **Streak**: 59 days 🔥
+- **Theme**: 🏗️ Architecture
 
 _Keep building. Every line of code counts._ 🚀
