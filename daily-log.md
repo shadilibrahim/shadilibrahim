@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Tuesday, October 13 2026
+# 📅 Daily Dev Log — Wednesday, October 14 2026
 
-> *Auto-generated at 14:07 UTC · Day **70** of consistent coding 🔥*
+> *Auto-generated at 11:48 UTC · Day **71** of consistent coding 🔥*
 
 ---
 
-## 🔐 Security — Tip of the Day
+## 🏗️ Architecture — Tip of the Day
 
-> Every hour spent on good architecture saves ten hours of refactoring.
+> Handle errors explicitly; silent failures are the hardest bugs to find.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "Weeks of coding can save you hours of planning."
+> "Sometimes it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday's code."
 >
-> — **Anonymous**
+> — **Dan Salomon**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-10-13
-- **Streak**: 70 days 🔥
-- **Theme**: 🔐 Security
+- **Date**: 2026-10-14
+- **Streak**: 71 days 🔥
+- **Theme**: 🏗️ Architecture
 
 _Keep building. Every line of code counts._ 🚀
