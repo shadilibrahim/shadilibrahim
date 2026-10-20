@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Monday, October 19 2026
+# 📅 Daily Dev Log — Tuesday, October 20 2026
 
-> *Auto-generated at 13:08 UTC · Day **76** of consistent coding 🔥*
+> *Auto-generated at 11:31 UTC · Day **77** of consistent coding 🔥*
 
 ---
 
-## 📖 Learning — Tip of the Day
+## 🧪 Testing — Tip of the Day
 
-> Logs are your best friend in production — log enough to diagnose, not too much to search.
+> Measure twice, cut once — plan your data model before writing the first line.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "The best way to predict the future is to implement it."
+> "If you think good architecture is expensive, try bad architecture."
 >
-> — **David Heinemeier Hansson**
+> — **Brian Foote**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-10-19
-- **Streak**: 76 days 🔥
-- **Theme**: 📖 Learning
+- **Date**: 2026-10-20
+- **Streak**: 77 days 🔥
+- **Theme**: 🧪 Testing
 
 _Keep building. Every line of code counts._ 🚀
