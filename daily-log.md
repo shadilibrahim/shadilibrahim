@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Tuesday, November 10 2026
+# 📅 Daily Dev Log — Wednesday, November 11 2026
 
-> *Auto-generated at 14:49 UTC · Day **97** of consistent coding 🔥*
+> *Auto-generated at 14:16 UTC · Day **98** of consistent coding 🔥*
 
 ---
 
-## 🔐 Security — Tip of the Day
+## 🏗️ Architecture — Tip of the Day
 
-> Learn the keyboard shortcuts of your editor — speed compounds over time.
+> Learn one new terminal command per week; the CLI is your superpower.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Sometimes it pays to stay in bed on Monday rather than spending the rest of the week debugging Monday's code."
 >
-> — **Ken Thompson**
+> — **Dan Salomon**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-11-10
-- **Streak**: 97 days 🔥
-- **Theme**: 🔐 Security
+- **Date**: 2026-11-11
+- **Streak**: 98 days 🔥
+- **Theme**: 🏗️ Architecture
 
 _Keep building. Every line of code counts._ 🚀
