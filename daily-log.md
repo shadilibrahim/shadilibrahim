@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Thursday, November 19 2026
+# 📅 Daily Dev Log — Friday, November 20 2026
 
-> *Auto-generated at 15:41 UTC · Day **106** of consistent coding 🏆*
+> *Auto-generated at 15:23 UTC · Day **107** of consistent coding 🏆*
 
 ---
 
-## 📖 Learning — Tip of the Day
+## 🚀 Shipping — Tip of the Day
 
-> Automate repetitive tasks; your time is better spent solving new problems.
+> Learn one new terminal command per week; the CLI is your superpower.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Deleted code is debugged code."
 >
-> — **Ken Thompson**
+> — **Jeff Sickel**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-11-19
-- **Streak**: 106 days 🏆
-- **Theme**: 📖 Learning
+- **Date**: 2026-11-20
+- **Streak**: 107 days 🏆
+- **Theme**: 🚀 Shipping
 
 _Keep building. Every line of code counts._ 🚀
