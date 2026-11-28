@@ -1,27 +1,27 @@
-# 📅 Daily Dev Log — Friday, November 27 2026
+# 📅 Daily Dev Log — Saturday, November 28 2026
 
-> *Auto-generated at 16:35 UTC · Day **114** of consistent coding 🏆*
+> *Auto-generated at 15:27 UTC · Day **115** of consistent coding 🏆*
 
 ---
 
-## 🧩 Algorithm — Tip of the Day
+## 🏗️ Architecture — Tip of the Day
 
-> A function should do one thing — and do it well.
+> Code review is a conversation, not a judgement — be kind and specific.
 
 ---
 
 ## 💬 Quote of the Day
 
-> "One of my most productive days was throwing away 1,000 lines of code."
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 >
-> — **Ken Thompson**
+> — **Martin Fowler**
 
 ---
 
 ## 🗓️ Log
 
-- **Date**: 2026-11-27
-- **Streak**: 114 days 🏆
-- **Theme**: 🧩 Algorithm
+- **Date**: 2026-11-28
+- **Streak**: 115 days 🏆
+- **Theme**: 🏗️ Architecture
 
 _Keep building. Every line of code counts._ 🚀
